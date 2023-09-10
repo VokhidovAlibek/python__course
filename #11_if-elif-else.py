@@ -221,3 +221,4 @@ for i in range(2,11):
         print(f"{a} soni {i} ga qoldiqsiz bo'linadi")
 
 print("GitHub ga yuklandi")
+print("GitHub ga yuklandi")
