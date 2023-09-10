@@ -219,3 +219,5 @@ for i in range(2,11):
     # if a%i == 0:
     if not (a%i):
         print(f"{a} soni {i} ga qoldiqsiz bo'linadi")
+
+print("GitHub ga yuklandi")
